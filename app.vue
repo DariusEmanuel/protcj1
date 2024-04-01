@@ -3,7 +3,6 @@
     <div class="landing-inner">
       <h1>Site-ul este în lucru!</h1>
       <p>Vă mulțumim pentru vizită.</p>
-      <p>Reveniți mai târziu.</p>
     </div>
   </div>
 </template>
